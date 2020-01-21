@@ -1,6 +1,11 @@
 # Assistente Virtual
 <h2>Assistente Virtual feito em python (em construção)<h2>
   <h3>Sistema sendo desenvolvido no ArchLinux, ainda não testado em outras plataformas</h3>'
+
+  Criador: https://www.facebook.com/tiago.r.floyd
+
+
+
  <h3>Dependências</h3>
  <ul>
    <li><h4>Arch Linux</h4></li>
